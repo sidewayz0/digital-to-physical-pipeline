@@ -29,12 +29,6 @@ CASE-001 is published as a provisional assessment with explicit confidence state
 - Keep private correspondence, working notes, and unpublished administrative material out of this public repository.
 - Preserve revisions through Git history and identify material updates to published conclusions.
 
-## GitHub Pages setup
-
-In this repository, go to **Settings → Pages → Build and deployment**. Choose **Deploy from a branch**, select `main` and `/docs`, and save. Once deployed, the public site should appear at:
-
-https://sidewayz0.github.io/digital-to-physical-pipeline/
-
 ## Independence
 
 This project is independent open-source research. Any assessments are those of the author alone, not of any employer or affiliated institution.
