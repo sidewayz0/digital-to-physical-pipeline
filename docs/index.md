@@ -14,9 +14,9 @@ This publication examines how recruitment, reconnaissance, and physical operatio
 ### CASE-001 — Vilnius IKEA Arson (2024)
 
 **Research status:** Provisionally Assessed — Pending External Records  
-**Public report:** In preparation
+**Public report:** [Read the assessment](cases/case-001-vilnius-ikea.html) — 17 November 2026
 
-The publication will distinguish verified outcomes and underlying official records from reported investigative details and analytical interpretations. No substantive findings are published here yet.
+The report assesses participation, digital coordination, compensation, and Russian-intelligence direction. It distinguishes judicial findings from investigative accounts and identifies the records needed to resolve remaining uncertainties.
 
 ### CASE-002 — Marywilska 44 Shopping Center Fire
 
@@ -32,4 +32,4 @@ The publication will distinguish verified outcomes and underlying official recor
 
 ---
 
-*This is independent open-source research. Findings, when published, will include source citations and explicit limitations. The views expressed are the author's alone and are not an institutional position.*
+*This is independent open-source research. Published findings include source citations and explicit limitations. The views expressed are the author's alone and are not an institutional position.*

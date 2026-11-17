@@ -7,7 +7,9 @@ title: Source Documentation
 
 [Home](../) · [Methodology](../methodology.html)
 
-This section will support the public case studies with a traceable bibliography and, where appropriate, a claim-to-source reference index.
+Public case studies include traceable source references and specific locators.
+
+- [CASE-001 — Vilnius IKEA: sources and locators](../cases/case-001-vilnius-ikea.html#sources-and-locators). Ten public sources accompany the report, with source character and evidentiary limits.
 
 For material sources, a public reference entry should document as available:
 
@@ -18,6 +20,6 @@ For material sources, a public reference entry should document as available:
 - **Source character:** primary record, official statement, original reporting, derivative reporting, or contextual analysis.
 - **Claims supported and limitations:** what the source actually establishes, what it merely reports, and any material uncertainties.
 
-Source identifiers and claim identifiers in the published material will be reconciled to prevent accidental mismatches. No source-specific entries have been published yet.
+Source identifiers in the published report follow the reconciled research records. Private correspondence and internal working notes are retained outside this public repository.
 
 [Back to homepage](../)
