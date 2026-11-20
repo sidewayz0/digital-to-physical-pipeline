@@ -16,7 +16,7 @@ This repository is the **public research publication**, not the underlying priva
 
 | Investigation | Research status | Public report |
 | --- | --- | --- |
-| CASE-001 — Vilnius IKEA Arson (2024) | **Provisionally Assessed — Pending External Records** | [Read report](docs/cases/case-001-vilnius-ikea.md) — 17 November 2026 |
+| CASE-001 — Vilnius IKEA Arson (2024) | **Provisionally Assessed — Pending External Records** | [Read report](docs/cases/case-001-vilnius-ikea.md) — updated 20 November 2026 |
 | CASE-002 — Marywilska 44 Shopping Center Fire | Research in progress | Not yet published |
 
 CASE-001 is published as a provisional assessment with explicit confidence statements, public citations, and unresolved evidence gaps. CASE-002 remains in preparation.
