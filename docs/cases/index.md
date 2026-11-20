@@ -12,7 +12,7 @@ The following entries reflect the research pipeline. An entry appearing here doe
 ## CASE-001 — Vilnius IKEA Arson (2024)
 
 **Status:** Provisionally Assessed — Pending External Records  
-**Publication:** [Read the assessment](case-001-vilnius-ikea.html) — 17 November 2026
+**Publication:** [Read the assessment](case-001-vilnius-ikea.html) — updated 20 November 2026
 
 The report distinguishes adjudicated facts, reported evidence, assessments, and outstanding records. Its provisional assessment will be maintained unless subsequent review warrants a change.
 
