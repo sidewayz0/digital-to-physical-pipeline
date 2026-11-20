@@ -23,6 +23,11 @@ The report assesses participation, digital coordination, compensation, and Russi
 **Research status:** In progress  
 **Public report:** Not yet published
 
+### CASE-003 — Chełm Warehouse Sabotage Preparation (2025)
+
+**Research status:** In progress  
+**Public report:** Not yet published
+
 ## Explore the research
 
 - [Investigations](cases/)
