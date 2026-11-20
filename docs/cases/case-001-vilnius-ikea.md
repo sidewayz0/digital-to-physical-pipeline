@@ -4,13 +4,14 @@ title: "Vilnius IKEA Arson: Assessing Digital Coordination and Russian-Intellige
 case_id: CASE-001
 case_status: "Provisionally Assessed — Pending External Records"
 published: 2026-11-17
-evidence_cutoff: 2026-11-17
-version: 1
+evidence_cutoff: 2026-11-20
+updated: 2026-11-20
+version: 2
 ---
 
 # Vilnius IKEA Arson: Assessing Digital Coordination and Russian-Intelligence Direction
 
-**CASE-001 | Intelligence assessment | 17 November 2026**  
+**CASE-001 | Intelligence assessment | Updated 20 November 2026**  
 **Case status: Provisionally Assessed — Pending External Records**
 
 [Home](../) · [Investigations](./) · [Methodology](../methodology.html)
@@ -19,13 +20,13 @@ version: 1
 
 What does the 9 May 2024 Vilnius IKEA arson establish about recruitment, digital coordination, operational participation and Russian-intelligence direction?
 
-This report examines the Vilnius operation, with related Polish activity and planned activity in Latvia included where they clarify its operational relationships. This public edition draws on public records reviewed through 17 November 2026. It does not constitute a review of the complete criminal file. Later disclosures reconstruct events in 2024; they are not treated as information available to public-source researchers before the attack.
+This report examines the Vilnius operation, with related Polish activity and planned activity in Latvia included where they clarify its operational relationships. This public edition draws on public records and court records held by the researcher, reviewed through 20 November 2026. It does not constitute a review of the complete criminal file. Later disclosures reconstruct events in 2024; they are not treated as information available to public-source researchers before the attack.
 
 ## Key judgments
 
 - **High confidence:** A fire occurred at Vilnius IKEA on 9 May 2024, and D. B. participated in the arson. This judgment rests primarily on the court’s authoritative reported finding of participation within a terrorist group. The full reasons and exhibits remain unavailable for independent inspection.[^court][^police]
-- **Moderate confidence:** Digital communications connected reconnaissance, instructions and operational documentation within an organized intermediary arrangement. This is our reconstruction from official investigative accounts; the project has not authenticated the exchanges or recordings.[^lt][^pl26]
-- **Low confidence / insufficient evidence:** Expected compensation may have contributed to D. B.’s initial acceptance. A reported arrangement does not establish its causal influence, the predominant motive, or actual cash payment.[^lt][^onet]
+- **Moderate confidence:** Digital communications connected reconnaissance, instructions and operational documentation within an organized intermediary arrangement. This reconstruction draws on official investigative accounts and related Polish judicial findings; the project has not authenticated the exchanges or recordings.[^lt][^pl26][^plreasons]
+- **Low confidence / insufficient evidence:** Expected compensation may have contributed to D. B.’s initial acceptance. A court describes a promised cash amount and a later vehicle transfer. The effect on initial acceptance, predominant motive and actual cash receipt remain unresolved.[^lt][^onet][^plreasons]
 - **Moderate confidence:** The network responsible for the Vilnius attack operated under Russian-intelligence direction. This assessment relies primarily on explicit Polish prosecutorial attribution and Lithuania’s broader attribution of action in Russian military/security interests. The specific service and control over individual tasks remain unresolved.[^pl25][^pl26][^lt]
 - **Not established:** The reviewed public record supplies no operation-specific indicator available before 9 May 2024 that could plausibly have alerted an outside researcher. This bounded finding does not establish that warning was impossible or that investigators lacked earlier information.
 
@@ -35,19 +36,20 @@ Confidence describes the strength and limitations of the evidentiary basis for e
 
 The police incident summary records an approximately 03:55 warehouse fire on Vikingų Street and initial suspicion of arson; it does not name IKEA. Later prosecution and judicial records explicitly identify the store. The police webpage’s 10 May update marker does not establish its initial publication time.[^police]
 
-On 24 November 2025, Vilnius Regional Court announced D. B.’s conviction, including the Vilnius attack, preparations involving Šiauliai and Riga, and terrorist-group participation. The announced sentence was three years and four months. The court announcement is not the full written judgment. The full reasons and underlying exhibits remain unavailable for independent inspection; the exact date of entry into force has not been established from the cited public records.[^court]
+On 24 November 2025, Vilnius Regional Court announced D. B.’s conviction, including the Vilnius attack, preparations involving Šiauliai and Riga, and terrorist-group participation. The announced sentence was three years and four months. Vilnius Regional Court confirmed by correspondence that judgment N1-149-806/2025 entered into force on 29 January 2026. The full Lithuanian judgment, reasons and exhibits remain unavailable.[^court][^finality]
 
-The detailed preparatory sequence is principally a prosecutorial reconstruction. Its inclusion below does not mean every detail was expressly adopted in the court announcement.
+The Warsaw-Praga Regional Court’s reasons in V K 118/25 add factual findings relevant to the Vilnius chronology. That separate judgment convicted three defendants of organized-group participation and two of them also of assisting an offender to evade criminal responsibility. D. B. was a witness in that proceeding. The chronology distinguishes those findings from investigative accounts and the Lithuanian conviction announcement.[^plverdict][^plreasons]
 
 | Activity date | Reported activity | Disclosure and evidentiary limit |
 | --- | --- | --- |
-| Spring 2024; exact date unknown | Alleged Warsaw agreement involving compensation. | Lithuanian release, 17 March 2025; first recruitment contact unestablished.[^lt] |
-| From 20 April 2024 | Reported reconnaissance of Lithuanian retail stores. | Current Polish releases; not proof of an IKEA visit on that exact day. Historical page versions unchecked.[^pl25][^pl26] |
+| April 2024; exact date unknown | S. C. made an in-person offer at a Warsaw restaurant and instructed recruits to obtain new phones and install an application whose name is redacted. | Polish reasons, p. 2. First recruitment contact remains unestablished.[^plreasons] |
+| 19–20 April 2024 | Polish reasons date Lithuanian reconnaissance tasking and travel to 19 April and describe photographs, video and reporting to S. C. and O. V. | Polish releases date reconnaissance from 20 April. These may describe different milestones. Exact visit dates remain open.[^plreasons][^pl25][^pl26] |
 | 8–9 May 2024 | Device reportedly placed; fire occurred early on 9 May. | Investigative detail is retrospective; occurrence/participation also supported judicially.[^lt][^court] |
-| After the Vilnius fire | Reported filming, transmission and BMW reward. | Lithuanian investigative account; original records uninspected.[^lt] |
+| 9–10 May 2024 | Polish reasons describe D. B. sending Vilnius footage to Russia-based O. V. and receiving a car from S. C. as compensation on 10 May. | Polish reasons, p. 3, and Lithuanian investigative account. Original records uninspected.[^plreasons][^lt] |
 | 11–12 May 2024 | Reported instructions to film the anticipated Marywilska fire and subsequent recording. | Polish investigative accounts; recording does not establish that D. B. ignited that fire.[^pl25][^pl26] |
-| 13 May 2024 | Reported detention near Panevėžys while travelling toward Riga. | Lithuanian account published 17 March 2025.[^lt] |
+| 13 May 2024 | D. B. was arrested in Lithuania before he could carry out the Riga assignment. | Lithuanian account and Polish reasons. The latter describe collection of a package in Lithuania before arrest.[^lt][^plreasons] |
 | 24 November 2025 | Vilnius conviction announced. | Court announcement; distinct from the full reasons and any subsequent procedural status.[^court] |
+| 29 January 2026 | Lithuanian judgment entered into force. | Direct court confirmation by correspondence.[^finality] |
 | 25 March 2026 | Further Polish indictment filed. | Announced 2 April; separate proceedings and person-specific allegations.[^pl26] |
 
 ## Analytical interpretation
@@ -60,7 +62,7 @@ Shared actors and reported cross-border links make the case relevant to wider sa
 
 ### Compensation, pressure and personal motivation
 
-Lithuanian prosecutors report a €10,000 agreement for attacks in Lithuania and Latvia; Onet reports $10,000 per action. These differing terms remain unresolved. The reported vehicle reward is separate from proof of cash receipt or a pre-agreed combined package. The releases do not identify whether these details derive from admissions, other evidence, or both.[^lt][^onet]
+Lithuanian prosecutors report a €10,000 agreement for attacks in Lithuania and Latvia. The Polish reasons describe a US$10,000 offer per arson at the Warsaw meeting, consistent with Onet’s reported amount. The currency and unit remain unresolved. The court’s account of a subsequent vehicle transfer documents compensation in kind. Actual cash receipt and any pre-agreed combined package remain unverified.[^lt][^onet][^plreasons]
 
 The New Yorker attributes bullying to an unnamed acquaintance and describes D. B.’s fear in a later-assignment context. These are reported accounts; their underlying statements and influence on initial acceptance remain unverified.[^ny]
 
@@ -68,34 +70,39 @@ Financial incentive and pressure could coexist. Neither is established as the pr
 
 ### Russian direction and intermediary autonomy
 
-Lithuania’s Russian-interest formulation and Poland’s explicit direction attribution have different evidentiary scopes. Their combined weight supports our moderate-confidence network judgment; the court announcement itself does not attribute Russian sponsorship.[^lt][^pl25][^pl26][^court]
+Lithuania’s Russian-interest formulation and Poland’s explicit direction attribution have different evidentiary scopes. Their combined weight supports our moderate-confidence network judgment. The Polish reasons describe O. V. directing activities from Russia, S. C. recruiting and assigning tasks, and other members handling logistics and support. That finding strengthens the intermediary reconstruction. Establishing intelligence-service affiliation still requires evidence connecting the network to a service.[^lt][^pl25][^pl26][^plreasons]
 
 Close service control and substantial intermediary discretion can coexist. The available record does not resolve target selection, delegation or control over each task. A privately motivated criminal operation without Russian direction is less supported by the reviewed accounts, principally because of official attribution, but has not been conclusively excluded through independent examination of the underlying command evidence.
 
 ## Source quality and unresolved issues
 
-Court adjudication supplies an authoritative basis for participation; it must not be treated as automatic confirmation of every earlier prosecution assertion. Lithuanian and Polish accounts may share material through their joint investigation. Later official releases, annual reports and prosecution-prepared ministry replies do not create additional independent witnesses. Different publishers may also use the same underlying statements; the extent of overlap is unresolved.
+Court adjudication supplies an authoritative basis for participation; it must not be treated as automatic confirmation of every earlier prosecution assertion. The Polish reasons substantially rely on testimony D. B. gave in Lithuania, alongside other testimony and documentary evidence. Shared investigative material limits independent corroboration of the operational sequence.[^plreasons] Later official releases, annual reports and prosecution-prepared ministry replies do not create additional independent witnesses. Different publishers may also use the same underlying statements; the extent of overlap is unresolved.
 
 | Issue | Treatment in this report |
 | --- | --- |
 | Payment currency, unit and allocation | €10,000 agreement versus $10,000 per action remains open; neither conversion nor reconciliation is assumed. Financial influence remains low confidence. |
 | Timed mechanism versus remote capability | Actual trigger unverified; contradiction not established. No remote operator identified.[^lt][^pl26] |
 | Specific Russian service | Unresolved; no GRU/GU, FSB or SVR command finding made. |
-| Full judgment and exact finality | Full reasons unavailable; exact entry-into-force date not established from the cited public records. |
-| Related Polish court identity | The Polish conviction announcement names Warsaw-Praga; a ministry reply uses Warsaw. Docket needed; no inference about the Lithuanian court follows.[^pljudgment][^ministry] |
+| Lithuanian finality and underlying records | Entry into force confirmed on 29 January 2026. Operative part, full reasons and underlying exhibits remain unavailable.[^finality] |
+| Related Polish court identity | The judgment identifies Warsaw-Praga Regional Court and docket V K 118/25. The ministry’s earlier naming differs. Polish finality and any appeal outcome remain unverified.[^plverdict][^pljudgment][^ministry] |
 | First public disclosure and historical page content | Initial May 9 reporting and source edit histories not established. No pre-incident warning conclusion inferred from retrospective detail. |
 
 ## Outstanding collection and reassessment
 
-Outstanding collection concerns the full judgment, precise finality, and releasable underlying records. The absence of these records does not support any substantive judgment.
+Outstanding collection concerns the full Lithuanian judgment and releasable underlying records. The absence of these records does not support any substantive judgment.
 
-Reassess when records materially address adjudicated facts, initial contact and acceptance, payment terms, actual activation, or operation-specific command relationships. Authenticated communications are one route; corroborated testimony, forensic records and express judicial reasoning could also change judgments. A finality-date clarification alone would not resolve motive or attribution.
+Reassess when records materially address adjudicated facts, initial contact and acceptance, payment terms, actual activation, or operation-specific command relationships. Authenticated communications are one route; corroborated testimony, forensic records and express judicial reasoning could also change judgments.
 
 The case supports analysis of digital tasking and coordination within one detected operation. Initial digital recruitment, campaign prevalence and useful public warning remain questions for further evidence and comparison. This provisional assessment was approved for publication on 17 November 2026. Material changes to its conclusions will be identified in subsequent revisions.
 
+## Revision history
+
+- **20 November 2026, version 2.** Added court-confirmed Lithuanian finality and the related Polish judgment and reasons. Updated chronology, source dependence and collection gaps. Confidence judgments and provisional status were retained.
+- **17 November 2026, version 1.** Initial publication.
+
 ## Sources and locators
 
-The [public source register](../references/) documents each source’s provenance, relevant passages, use and evidentiary limitations.
+The [public source register](../references/) documents source provenance, passage locators and limitations.
 
 [^police]: **[SRC-006](../references/#src-006)**, Lithuanian Police, [9 May 2024 incident summary](https://policija.lrv.lt/lt/ivykiu-suvestines/2024-05-09-suvestine/), “Gaisrai”, first paragraph. Update marker: 10 May 2024; initial publication time unknown.
 [^court]: **[SRC-003](../references/#src-003)**, Vilnius Regional Court, [judgment announcement, 24 November 2025](https://vat.teismas.lt/naujienos/teismas-paskelbe-nuosprendi-ikea-padegimo-byloje/1111), findings paragraph beginning “Teismas pripažino”; sentencing paragraphs; final appeal paragraph. Announcement, not full judgment.
@@ -107,3 +114,7 @@ The [public source register](../references/) documents each source’s provenanc
 [^parcel]: **[SRC-010](../references/#src-010)**, Lithuanian prosecutors and Criminal Police Bureau, [6 March 2026 joint announcement](https://prokuraturos.lt/lt/teismui-perduota-byla-del-skirtingose-valstybese-organizuotu-ir-planuotu-ivykdyti-teroro-aktu-with-text-in-english/12174), English paragraph beginning “It should be noted”. Cross-operation linkage only.
 [^pljudgment]: **[SRC-009](../references/#src-009)**, Polish National Prosecutor’s Office, [24 October 2025 announcement](https://www.gov.pl/web/prokuratura-krajowa/wyrok-skazujacy-trzy-osoby-za-udzial-w-zorganizowanej-grupie-przestepczej-o-charakterze-sabotazowo-terrorystycznym), opening outcome paragraphs; distinguish the later “Ustalenia śledztwa” section from adjudicated findings.
 [^ministry]: [Interpellation 13517](../references/#interpellation-13517), Polish Ministry of Justice, [reply to interpellation 13517, 4 December 2025](https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDP3JDT/i13517-o1.pdf), p. 1. Original archived by the researcher. Prosecution-prepared information, not the judgment.
+
+[^finality]: **[SRC-030](../references/#src-030)**, Vilnius Regional Court, correspondence held by the researcher, substantive reply confirming entry into force of N1-149-806/2025. Receipt date unavailable.
+[^plverdict]: **[SRC-028](../references/#src-028)**, Warsaw-Praga Regional Court, anonymized judgment V K 118/25, 18 September 2025, PDF pp. 2–3, operative rulings I–V. Copy held by the researcher.
+[^plreasons]: **[SRC-029](../references/#src-029)**, Warsaw-Praga Regional Court, anonymized reasons in V K 118/25, copy held by the researcher. PDF pp. 2–3 (recruitment, reconnaissance, recording, compensation and interrupted Riga assignment), 9–14 (evidence evaluation), 17–18 (network roles), 20–22 (motives and individual support roles).
