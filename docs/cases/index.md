@@ -21,6 +21,11 @@ The report distinguishes adjudicated facts, reported evidence, assessments, and 
 **Status:** Research in progress  
 **Publication:** Not yet published
 
+## CASE-003 — Chełm Warehouse Sabotage Preparation (2025)
+
+**Status:** Research in progress  
+**Publication:** Not yet published
+
 ## Future comparative assessments
 
 Cross-case analysis of recruitment, reconnaissance, tasking, and physical operations will be considered after underlying case records and claims have been sufficiently evaluated.
