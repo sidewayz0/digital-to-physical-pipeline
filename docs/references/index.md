@@ -1,18 +1,18 @@
 ---
 layout: default
 title: Source Documentation
-updated: 2026-11-17
+updated: 2026-11-20
 ---
 
 # Source Documentation
 
 [Home](../) · [Methodology](../methodology.html) · [CASE-001 report](../cases/case-001-vilnius-ikea.html)
 
-## CASE-001 public source register
+## CASE-001 source register
 
-This register documents the ten public sources cited in the [Vilnius IKEA assessment](../cases/case-001-vilnius-ikea.html), reviewed for the report’s evidence cutoff of 17 November 2026. Descriptive English entry titles identify the records; they are not presented as verbatim translations of original titles. Passage locators refer to the linked originals. This register adds documentation, not new evidence or revised judgments.
+This register documents the public sources cited in the [Vilnius IKEA assessment](../cases/case-001-vilnius-ikea.html), reviewed for the report’s evidence cutoff of 20 November 2026. Descriptive English entry titles identify the records; they are not presented as verbatim translations of original titles. Passage locators refer to the linked originals. Records held by the researcher are documented below with passage locators.
 
-SRC identifiers are stable research references, not a sequence of evidentiary weight. The report cites SRC-002 through SRC-010 plus the ministry reply identified below by its official interpellation number. Gaps in the sequence do not imply missing endnotes. Private correspondence and internal working notes are retained outside this public repository.
+SRC identifiers are stable research references, not a sequence of evidentiary weight. The report cites SRC-002 through SRC-010, SRC-028 through SRC-030 and the ministry reply identified below by its official interpellation number. Gaps in the sequence do not imply missing endnotes. Private correspondence and internal working notes are retained outside this public repository.
 
 Each entry identifies what the source supports and what remains unestablished. Official investigative statements are distinguished from court findings. Publications drawing on a shared investigation or the same statements are not counted as independent corroboration merely because their publishers differ.
 
@@ -144,7 +144,7 @@ Each entry identifies what the source supports and what remains unestablished. O
 
 **Use in CASE-001:** Reports Warsaw-Praga Regional Court convictions for group participation and, for two defendants, assistance with an escape. Used in assessing the related Polish proceeding and court identity.
 
-**Limitations:** Not the judgment text; no docket or full reasoning obtained. Described as nonfinal at publication; later finality unverified. Investigative details appearing later in the release are not automatically adjudicated findings. Court naming differs from the ministry reply below.
+**Limitations:** Not the judgment text; no docket or full reasoning obtained. Described as nonfinal at publication; later Polish finality unverified. Investigative details appearing later in the release are not automatically adjudicated findings. Court naming differs from the ministry reply below.
 
 <a id="src-010"></a>
 
@@ -187,3 +187,23 @@ Links lead to the issuing authority or original publisher. Publisher access rest
 - **17 November 2026:** Published the CASE-001 public source register and linked the report’s SRC identifiers to their entries. Documentation update only; analytical judgments, confidence levels and **Provisionally Assessed — Pending External Records** status retained.
 
 [Read the assessment](../cases/case-001-vilnius-ikea.html) · [Back to homepage](../)
+
+## Court records held by the researcher
+
+<a id="src-028"></a>
+
+### SRC-028
+
+Warsaw-Praga Regional Court, anonymized judgment V K 118/25, 18 September 2025, PDF pp. 2–3, operative rulings I–V. Establishes the scope and sentences of the related group and escape-assistance convictions. Polish finality and appeal outcome are unverified.
+
+<a id="src-029"></a>
+
+### SRC-029
+
+Warsaw-Praga Regional Court, anonymized written reasons V K 118/25. PDF pp. 2–3 cover the Warsaw offer, Lithuanian reconnaissance, Vilnius footage, vehicle transfer and interrupted Riga tasking. Pp. 9–14 evaluate the evidence, including testimony obtained in Lithuania. Pp. 17–18 describe network roles, and pp. 20–22 address motives and support. Reliance on material from Lithuania limits independent corroboration. The findings on Russia-based direction do not establish intelligence-service affiliation.
+
+<a id="src-030"></a>
+
+### SRC-030
+
+Vilnius Regional Court correspondence held by the researcher. The substantive reply confirms 29 January 2026 as the date judgment N1-149-806/2025 entered into force and refers the researcher to SRC-003. Receipt date unavailable. The reply does not supply the judgment text, reasons or exhibits.
