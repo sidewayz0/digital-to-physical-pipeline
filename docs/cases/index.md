@@ -18,8 +18,8 @@ The report distinguishes adjudicated facts, reported evidence, assessments, and 
 
 ## CASE-002 — Marywilska 44 Shopping Center Fire
 
-**Status:** Research in progress  
-**Publication:** Not yet published
+**Status:** Provisionally Assessed — Pending External Records  
+**Publication:** [Read the assessment](case-002-marywilska-44.html) — published 24 November 2026
 
 ## CASE-003 — Chełm Warehouse Sabotage Preparation (2025)
 

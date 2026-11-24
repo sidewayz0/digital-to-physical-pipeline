@@ -8,6 +8,8 @@ updated: 2026-11-20
 
 [Home](../) · [Methodology](../methodology.html) · [CASE-001 report](../cases/case-001-vilnius-ikea.html)
 
+- [CASE-002 source register](case-002-marywilska-44.html)
+
 ## CASE-001 source register
 
 This register documents the public sources cited in the [Vilnius IKEA assessment](../cases/case-001-vilnius-ikea.html), reviewed for the report’s evidence cutoff of 20 November 2026. Descriptive English entry titles identify the records; they are not presented as verbatim translations of original titles. Passage locators refer to the linked originals. Records held by the researcher are documented below with passage locators.

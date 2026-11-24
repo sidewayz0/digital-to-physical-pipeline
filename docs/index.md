@@ -20,8 +20,8 @@ The report assesses participation, digital coordination, compensation, and Russi
 
 ### CASE-002 — Marywilska 44 Shopping Center Fire
 
-**Research status:** In progress  
-**Public report:** Not yet published
+**Research status:** Provisionally Assessed — Pending External Records  
+**Public report:** [Read the assessment](cases/case-002-marywilska-44.html) — published 24 November 2026
 
 ### CASE-003 — Chełm Warehouse Sabotage Preparation (2025)
 
